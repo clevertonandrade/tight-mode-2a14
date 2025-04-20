@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tight-mode-2a14",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5b799bef-735d-4288-bf60-3d8bed16bd41",
+      "database_name": "noisy-cake-69bf-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
